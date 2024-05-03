@@ -4,7 +4,7 @@
 "https://www.apachefriends.org/"
 
 Клонируем репозиторий:
-"git clone https://gitlab.com/dixzzer2004/sushispot.git"
+"git clone https://github.com/snowy-taf/sushispot.git"
 
 Запускаем XAMPP и запускаем PHPMyAdmin.
 
